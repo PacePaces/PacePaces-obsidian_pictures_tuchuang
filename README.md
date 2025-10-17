@@ -1,0 +1,2 @@
+# PacePaces-obsidian_pictures_tuchuang
+obsidan图床仓库：主要用于笔记文件图片保存，使用超链接读取图床图片
